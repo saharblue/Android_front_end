@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Main activity-->
+    <!--    Main activity-->
+    <string name="menu_button">צפה בתפריט</string>
+    <string name="order_seats_button">הזמנת מקום</string>
+
+<!--    Order seats activity-->
+    <string name="order_seats_title">הזמנת מקום</string>
+    <string name="both_not_selected_message">אנא בחר תאריך ושעה</string>
+    <string name="date_not_selected_message">אנא בחר תאריך</string>
+    <string name="time_not_selected_message">אנא בחר שעה</string>
+    <string name="ok_button">אוקיי</string>
+    <string name="select_date_button">בחירת תאריך</string>
+    <string name="select_time_button">בחירת שעה</string>
+    <string name="num_people_title">מס׳ אנשים</string>
+    <string name="vegan_title">טבעוני?</string>
+    <string-array name="vegan_options">
+        <item>כן</item>
+        <item>לא</item>
+    </string-array>
+
+<!--    Alert dialog-->
+    <string name="not_selected_title">שגיאה</string>
+    <string name="no_date_text">לא נבחר תאריך</string>
+    <string name="no_time_text">לא נבחרה שעה</string>
+
+<!--    Summary activity-->
+    <string name="summary_title">כמעט סיימנו!</string>
+    <string name="summary_part_1">פרטי הזמנתך:</string>
+    <string name="summary_table_for">שולחן עבור</string>
+    <string name="summary_date_time">בשעה</string>
+    <string name="summary_vegan">"טבעוני: "</string>
+    <string name="complete_order">כן! בצע הזמנה</string>
+    <string name="summary_back">חזור אחורה</string>
+    <string name="summary_title_after">תודה!</string>
+    <string name="next_button">הבא</string>
+    <string name="logo_description">לוגו של שייק שאק</string>
+    <string name="home_button">בחזרה לדף הבית</string>
+
+
+
+
+
+</resources>

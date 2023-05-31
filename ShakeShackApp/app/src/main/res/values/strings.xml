@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name" translatable="false">ShakeShackApp</string>
+
+<!--    Main activity-->
+    <string name="menu_button">View Menu</string>
+    <string name="order_seats_button">Order Seats</string>
+
+<!--    Menu activity-->
+    <string name="burgers_title" translatable="false">BURGERS</string>
+    <string name="burgers_desc" translatable="false">Our custom 100% Angus beef blend, never frozen, no hormones or
+        antibiotics ever, humanely raised and grazed in the USA</string>
+    <string name="white_truffle_title" translatable="false">White Truffle Burger</string>
+    <string name="white_truffle_desc" translatable="false">Fontina cheeseburger topped with real white truffle sauce
+        made with Regalis organic white truffle oil, and our crispy sweet onions on a toasted
+        potato bun (contains sesame, eggs, milk, soy, wheat, and gluten) $9.99 · 680 cals
+    </string>
+    <string name="white_shroom_title" translatable="false">White Truffle \'Shroom Burger</string>
+    <string name="white_shroom_desc" translatable="false">Crisp-fried portobello mushroom filled with melted muenster
+        and cheddar cheeses, topped with real white truffle sauce made with Regalis organic white
+        truffle oil, and shredded lettuce on a toasted potato bun (contains sesame, eggs, milk,
+        soy, wheat, and gluten) $9.99 · 570 cals</string>
+    <string name="hamburger_title" translatable="false">Hamburger</string>
+    <string name="hamburger_desc" translatable="false">Angus beef patty and your choice of toppings on a toasted
+        potato bun (contains sesame, milk, wheat, and gluten) $6.39 · 370 cals</string>
+    <string name="fries_section_title" translatable="false">CRINKLE CUT FRIES</string>
+    <string name="fries_section_desc" translatable="false">Crispy and cut from golden potatoes, prepared in
+        cholesterol-free soy oil</string>
+    <string name="fries_dish_title" translatable="false">Fries</string>
+    <string name="fries_dish_desc" translatable="false">Crispy crinkle cut fries (contains soy) $3.99 · 470 cals</string>
+    <string name="truffle_fries_title" translatable="false">White Truffle Parmesan Fries</string>
+    <string name="truffle_fries_desc" translatable="false">Crispy crinkle cuts topped with parmesan cheese and
+        served with real white truffle sauce made with Regalis organic white
+        truffle oil. $5.59 · 750 cals</string>
+    <string name="cheese_fries_title" translatable="false">Cheese Fries</string>
+    <string name="cheese_fries_desc" translatable="false">Crispy crinkle cuts topped with our cheese sauce
+        (contains soy and milk) $4.99 · 710 cals</string>
+    <string name="drinks_title" translatable="false">DRINKS</string>
+    <string name="drinks_desc" translatable="false">Lemonades made in house with real cane sugar and
+        fountain soda</string>
+    <string name="lemonade_title" translatable="false">Shack-made Lemonade</string>
+    <string name="lemonade_desc" translatable="false">Made in house with real juice and real cane sugar
+        $3.69 · 160 cals</string>
+    <string name="fountain_soda_title" translatable="false">Fountain Soda</string>
+    <string name="fountain_soda_desc" translatable="false">Coke, Diet Coke, Dr Pepper, Fanta Orange, Sprite,
+        Ginger Ale, Coca-Cola Zero Sugar. Small - $3.19, large - $3.69</string>
+
+<!--    Order seats activity-->
+    <string name="order_seats_title">Order seats</string>
+    <string name="select_date_button">select date</string>
+    <string name="select_time_button">select time</string>
+    <string name="num_people_title">Num of people</string>
+    <string name="vegan_title">Vegan?</string>
+    <string name="next_button">next</string>
+    <string name="no_date_text">No date selected yet</string>
+    <string name="no_time_text">No time selected yet</string>
+
+    <!--    alert dialog-->
+    <string name="both_not_selected_message">Please select date and time</string>
+    <string name="date_not_selected_message">Please select date</string>
+    <string name="time_not_selected_message">Please select time</string>
+    <string name="ok_button">OK</string>
+
+
+    <!--    num of people array-->
+    <string-array name="num_persons">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+<!--    Vegan options array-->
+    <string-array name="vegan_options">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+
+    <!--    summary activity-->
+    <string name="summary_title">You\'re almost done!</string>
+    <string name="summary_part_1">your order details:</string>
+    <string name="summary_table_for">A table for</string>
+    <string name="summary_date_time">at</string>
+    <string name="summary_vegan">Vegan choice:</string>
+    <string name="complete_order">Yes! make the order</string>
+    <string name="summary_back">go back</string>
+    <string name="summary_title_after">Thank you</string>
+    <string name="not_selected_title">Error</string>
+    <string name="logo_description">Shake Shack logo</string>
+    <string name="home_button">Back to homepage</string>
+
+</resources>
