@@ -33,6 +33,6 @@ The `ShakeShackApp` directory contains the Android Studio project for the applic
 5. Build the project by clicking on 'Build -> Make Project'.
 6. Run the application by clicking on 'Run -> Run app'.
 
-## Acknowledgements
+## Notice
 
 Please note that this application has been developed strictly for educational and learning purposes. It is not intended for any commercial use or monetary gain. All rights, trademarks, and relevant property are fully reserved by Shake Shack. This project is a demonstration of technical capabilities and is to be used respectfully, acknowledging Shake Shack's full proprietary rights.
